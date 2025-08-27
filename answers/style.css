@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.highlight {
+  color: red;     /* Used for toggle effect */
+  font-weight: bold;
+}
